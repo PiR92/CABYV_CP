@@ -1,0 +1,401 @@
+strain	virus	date	accesion	host	country	region	db	segment	url	
+TR94-86_turkey_1994	CABYV	1994-XX-XX	MT219992.1	Bottle gourd	Turkey	Ordu	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219992.1	
+TR94-39_turkey_1994	CABYV	1994-XX-XX	MT219991.1	Zucchini	Turkey	Antalya	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219991.1	
+TR94-36_turkey_1994	CABYV	1994-XX-XX	MT219990.1	Zucchini	Turkey	Antalya	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219990.1	
+TR94-33_turkey_1994	CABYV	1994-XX-XX	MT219989.1	Zucchini	Turkey	Antalya	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219989.1	
+TR94-20_turkey_1994	CABYV	1994-XX-XX	MT219988.1	Cucumber	Turkey	Ula	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219988.1	
+N_France_1994	CABYV	1994-XX-XX	NC_003688.1		France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/NC_003688.1	
+Sq_2003_8.3_spain_2003	CABYV	2003-XX-XX	JF939734.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939734.1	
+Sq_2003_8.1_spain_2003	CABYV	2003-XX-XX	JF939733.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939733.1	
+Sq_2003_4.6_spain_2003	CABYV	2003-XX-XX	JF939732.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939732.1	
+Sq_2003_3.3_spain_2003	CABYV	2003-XX-XX	JF939731.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939731.1	
+Sq_2003_3.1_spain_2003	CABYV	2003-XX-XX	JF939730.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939730.1	
+Sq_2003_5_spain_2003	CABYV	2003-XX-XX	JF939729.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939729.1	
+M_2003_39.9_spain_2003	CABYV	2003-XX-XX	JF939727.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939727.1	
+M_2003_37.2_spain_2003	CABYV	2003-XX-XX	JF939726.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939726.1	
+M_2003_36.8_spain_2003	CABYV	2003-XX-XX	JF939725.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939725.1	
+M_2003_24.6_spain_2003	CABYV	2003-XX-XX	JF939724.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939724.1	
+M_2003_24.2_spain_2003	CABYV	2003-XX-XX	JF939723.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939723.1	Saudi Arabia
+M_2003_13.7_spain_2003	CABYV	2003-XX-XX	JF939722.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939722.1	
+M_2003_12.7_spain_2003	CABYV	2003-XX-XX	JF939721.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939721.1	
+M_2003_11.5_spain_2003	CABYV	2003-XX-XX	JF939720.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939720.1	
+CABYV-ES3_spain_2003	CABYV	2003-XX-XX	GU002333.1	Melon	Spain 	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU002333.1	
+CABYV-ES2_spain_2003	CABYV	2003-XX-XX	GU002332.1	Melon	Spain 	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU002332.1	
+Sq_2003_7.2_Spain	CABYV	2003-XX-XX	JF939812.1	Zucchini	Spain 	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939812.1	
+Sq/2004/9.8_spain_2004	CABYV	2004-XX-XX	JF939749.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939749.1	
+Sq/2004/5.8_spain_2004	CABYV	2004-XX-XX	JF939748.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939748.1	
+Sq/2004/5.5_spain_2004	CABYV	2004-XX-XX	JF939747.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939747.1	
+Sq/2004/2.6_spain_2004	CABYV	2004-XX-XX	JF939746.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939746.1	
+Sq/2004/2.3_spain_2004	CABYV	2004-XX-XX	JF939745.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939745.1	
+M/2004/39.14_spain_2004	CABYV	2004-XX-XX	JF939744.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939744.1	
+M/2004/31.9_spain_2004	CABYV	2004-XX-XX	JF939743.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939743.1	
+M/2004/30.9_spain_2004	CABYV	2004-XX-XX	JF939742.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939742.1	
+M/2004/28.11_spain_2004	CABYV	2004-XX-XX	JF939741.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939741.1	
+M/2004/25.2_spain_2004	CABYV	2004-XX-XX	JF939740.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939740.1	
+M/2004/24.4_spain_2004	CABYV	2004-XX-XX	JF939739.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939739.1	
+M/2004/22.11_spain_2004	CABYV	2004-XX-XX	JF939738.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939738.1	
+M/2004/19.7_spain_2004	CABYV	2004-XX-XX	JF939737.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939737.1	
+M/2004/8.5_spain_2004	CABYV	2004-XX-XX	JF939736.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939736.1	
+M/2004/7.3_spain_2004	CABYV	2004-XX-XX	JF939735.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939735.1	
+37-5_spain_2004	CABYV	2004-XX-XX	AY529654.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/AY529654.1	
+36-2_spain_2004	CABYV	2004-XX-XX	AY529653.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/AY529653.1	
+CABYV-ES4_spain_2004	CABYV	2004-XX-XX	GU002334.1	Melon	Spain 	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU002334.1	
+CABYV-ES1_spain_2004	CABYV	2004-XX-XX	GU002331.1	Melon	Spain 	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU002331.1	
+Sq_2004_1.9_Spain	CABYV	2004-XX-XX	JF939814.1	Zucchini	Spain 	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939814.1 	
+Sq_2005_3.1_Spain	CABYV	2005-XX-XX	JF939761.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939761.1	
+Sq/2005/10.3_spain_2005	CABYV	2005-XX-XX	JF939764.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939764.1	
+Sq/2005/8.2_spain_2005	CABYV	2005-XX-XX	JF939763.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939763.1	
+Sq/2005/6.1_spain_2005	CABYV	2005-XX-XX	JF939762.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939762.1	
+Sq/2005/2.2_spain_2005	CABYV	2005-XX-XX	JF939760.1	Zucchini	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939760.1	
+M/2005/39.1_spain_2005	CABYV	2005-XX-XX	JF939759.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939759.1	
+M/2005/31.1_spain_2005	CABYV	2005-XX-XX	JF939758.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939758.1	
+M/2005/28.4_spain_2005	CABYV	2005-XX-XX	JF939757.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939757.1	
+M/2005/28.2_spain_2005	CABYV	2005-XX-XX	JF939756.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939756.1	
+M/2005/22.1_spain_2005	CABYV	2005-XX-XX	JF939755.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939755.1	
+M/2005/19.4_spain_2005	CABYV	2005-XX-XX	JF939754.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939754.1	
+M/2005/8.6_spain_2005	CABYV	2005-XX-XX	JF939753.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939753.1	
+M/2005/8.1_spain_2005	CABYV	2005-XX-XX	JF939752.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939752.1	
+M/2005/7.3_spain_2005	CABYV	2005-XX-XX	JF939751.1	Melon	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939751.1	
+M/2005/4.5_spain_2005	CABYV	2005-XX-XX	JF939750.1	Melon	Spain	Murcia	genbank	cp		
+Badr5_egypt_2005	CABYV	2005-XX-XX	FR717151.1	Zucchini	Egypt	El-Behera	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR717151.1	
+Badr4_egypt_2005	CABYV	2005-XX-XX	FR717150.1	Zucchini	Egypt	El-Behera	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR717150.1	
+Badr3_egypt_2005	CABYV	2005-XX-XX	FR717149.1	Zucchini	Egypt	El-Behera	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR717149.1	
+Badr2_egypt_2005	CABYV	2005-XX-XX	FR717148.1	Zucchini	Egypt	El-Behera	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR717148.1	
+Badr1_egypt_2005	CABYV	2005-XX-XX	FR717147.1	Zucchini	Egypt	El-Behera	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR717147.1	
+Kafrelsheikh-2_egypt_2005	CABYV	2005-XX-XX	FR717146.1	Zucchini	Egypt	Fuwwa	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR717146.1	
+Kafrelsheikh-1_egypt_2005	CABYV	2005-XX-XX	FR717145.1	Zucchini	Egypt	Fuwwa	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR717145.1	
+Sq_2005_9.2_Spain	CABYV	2005-XX-XX	JF939813.1	Zucchini	Spain 	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF939813.1	
+pM0911-2_china_2006	CABYV	2006-XX-XX	EF063706.1	Cucumber	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF063706.1	
+pM0829-2_china_2006	CABYV	2006-XX-XX	EF063705.1	Pumpkin	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF063705.1	
+pXhy0825-1_china_2006	CABYV	2006-XX-XX	DQ973124.1	Zucchini	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ973124	
+EF-063707 _china_2006	CABYV	2006-XX-XX	EF063707.1	Suakwa	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF063707.1	
+Ec3_tunisia_2006	CABYV	2006-XX-XX	EF187346.1	Ecballium elaterium	Tunisia	Tunisia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187346.1	
+Ec1_tunisia_2006	CABYV	2006-XX-XX	EF187345.1	Ecballium elaterium	Tunisia	Tunisia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187345.1	
+LR_tunisia_2006	CABYV	2006-XX-XX	EF187344.1	Lettuce	Tunisia	Manouba region	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187344.1	
+59S_tunisia_2006	CABYV	2006-XX-XX	EF187342.1	Cucumber	Tunisia	Deguache	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187342.1	
+G_tunisia_2006	CABYV	2006-XX-XX	EF187343.1	Melon	Tunisia	Galaat El Andeless	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187343.1	
+AZ_tunisia_2006	CABYV	2006-XX-XX	EF187341.1	Watermelon 	Tunisia	Chebika region	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187341.1	
+ESH-25_tunisia_2006	CABYV	2006-XX-XX	EF187340.1	Zucchini	Tunisia 	Tunisia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187340.1	
+14S_tunisia_2006	CABYV	2006-XX-XX	EF187339.1	Cucumber	Tunisia 	Tunisia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187339.1	
+9_FB_tunisia_2006	CABYV	2006-XX-XX	EF187338.1	Melon	Tunisia	Tunisia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF187338.1	
+EF063708.1_china_2006	CABYV	2006-XX-XX	EF063708.1	Suakwa	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF063708.1	
+pM0829-3_china_2006	CABYV	2006-XX-XX	EF063704.1	Pumpkin	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF063704.1	
+pXhy0821-5_china_2006	CABYV	2006-XX-XX	DQ973123.1	Zucchini	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/DQ973123.1	
+C49_italy_2006	CABYV	2006-XX-XX	EF029115.1	Melon	Italy	Campania	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF029115.1	
+S-23_italy_2006	CABYV	2006-XX-XX	EF029113.1	Melon	Italy	Sicily	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF029113.1	
+S7_italy_2006	CABYV	2006-XX-XX	EF029114.1	Melon	Italy	Sicily	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF029114.1	
+S89_italy_2006	CABYV	2006-XX-XX	EF029112.1	Ecballium elaterium	Italy	Sicily	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF029112.1	
+pM061031-3_china_2006	CABYV	2006-XX-XX	EU262630.1	Zucchini	China	Jiangsu	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262630.1	
+pM061031-1_china_2006	CABYV	2006-XX-XX	EU262629.1	Cucumber	China	Jiangsu	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262629.1	
+pM061016-1_china_2006	CABYV	2006-XX-XX	EU262627.1	Zucchini	China	Inner Mongolia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262627.1	
+pM070207-2_china_2006	CABYV	2006-XX-XX	EU262626.1	Zucchini	China	Jiangsu	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262626.1	
+pM060919-9_china_2006	CABYV	2006-XX-XX	EU262625.1	Zucchini	China	Gansu	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262625.1	
+pM060929-4_china_2006	CABYV	2006-XX-XX	EU262624.1	Cucumber	China	Liaoning	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262624.1	
+pM060930-1_china_2006	CABYV	2006-XX-XX	EU262623.1	Zucchini	China	Liaoning	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262623.1	
+pM070823-3_china_2006	CABYV	2006-XX-XX	EU244317.1	Zucchini	China	Liaoning	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244317.1	
+pXHY0202-2_china_2006	CABYV	2006-XX-XX	EU091151.1	Bottle gourd	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU091151.1	
+pXHY030-7_china_2006	CABYV	2006-XX-XX	EU091150.1	Watermelon 	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU091150.1	
+pXHY0207-1_china_2006	CABYV	2006-XX-XX	EU091149.1	Melon	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU091149.1	
+pXHY1030-10_china_2006	CABYV	2006-XX-XX	EU091148.1	Momordica charantia	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU091148.1	
+CABYV-CHN_China_2006	CABYV	2006-XX-XX	EU000535.1	Cushaw	China	Beijing	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU000535.1	
+pM060925-15_china_2007	CABYV	2007-XX-XX	EU262631.1	Zucchini	China	Liaoning	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262631.1	
+pM061016-3_china_2007	CABYV	2007-XX-XX	EU262628.1	Zucchini	China	Inner Mongolia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU262628.1	
+pM071015-1_china_2007	CABYV	2007-XX-XX	EU259785.1	Suakwa	China	Jiangxi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU259785.1	
+pM070928-2_china_2007	CABYV	2007-XX-XX	EU259784.1	Suakwa	China	Guangdong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU259784.1	
+pM071015-3_china_2007	CABYV	2007-XX-XX	EU244327.1	Cucumber	China	Guangxi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244327.1	
+pM071015-2_china_2007	CABYV	2007-XX-XX	EU244326.1	Zucchini	China	Guangxi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244326.1	
+pM071009-2_china_2007	CABYV	2007-XX-XX	EU244325.1	Suakwa	China	Henan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244325.1	
+pM071009-1_china_2007	CABYV	2007-XX-XX	EU244324.1	Zucchini	China	Henan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244324.1	
+pM071008-2_china_2007	CABYV	2007-XX-XX	EU244323.1	Zucchini	China	Tianjin	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244323.1	
+pM070919-1_china_2007	CABYV	2007-XX-XX	EU244322.1	Zucchini	China	Hunan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244322.1	
+pM070917-1_china_2006	CABYV	2006-XX-XX	EU244321.1	Zucchini	China	Heilongjiang	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244321.1	
+pM070917-2_china_2007	CABYV	2007-XX-XX	EU244320.1	Zucchini	China	Sichuan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244320.1	
+pM070910-5_china_2007	CABYV	2007-XX-XX	EU244319.1	Zucchini	China	Shanxi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244319.1	
+pM070823-5_china_2007	CABYV	2007-XX-XX	EU244318.1	Zucchini	China	Shandong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244318.1	
+pM070910-4_china_2007	CABYV	2007-XX-XX	EU244316.1	Melon	China	Xinjiang	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244316.1	
+pM070820-2_china_2007	CABYV	2007-XX-XX	EU244315.1	Melon	China	Xinjiang	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU244315.1	
+EU030629.1_taiwan_2007	CABYV	2007-XX-XX	EU030629.1	Cucumber	Taiwan	Taiwan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU030629.1	
+Yunnan_china_2007	CABYV	2007-XX-XX	EF488997.1	Cucucrbit	China	Yunnan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF488997.1	
+Hubei_china_2007	CABYV	2007-XX-XX	EF488996.1	Cucucrbit	China	Hubei	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EF488996.1	
+157-08_serbia_2008	CABYV	2008-XX-XX	JF303079.1	Pumpkin	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JF303079.1	
+CABYV-R-TW9_taiwan_2008	CABYV	2008-XX-XX	GU324104.1	Benincasa hispida	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324104.1	
+CABYV-C-TW8_taiwan_2008	CABYV	2008-XX-XX	GU324103.1	Pumpkin	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324103.1	
+CABYV-R-TW6_taiwan_2008	CABYV	2008-XX-XX	GU324101.1	Pumpkin	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324101.1	
+CABYV-R-TW27_taiwan_2008	CABYV	2008-XX-XX	GU324097.1	Zucchini	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324097.1	
+CABYV-C-TW20_taiwan_2008	CABYV	2008-XX-XX	GU324095.1	Momordica charantia	Taiwan	Kaohsiung County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324095.1	
+IR-3_iran_2008	CABYV	2008-XX-XX	FJ428800.1	squash	Iran	Tehran	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ428800.1	
+IR-2_iran_2008	CABYV	2008-XX-XX	FJ428799.1	melon	Iran	Esfahan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ428799.1	
+IR-1_iran_2008	CABYV	2008-XX-XX	FJ428798.1	squash	Iran	Khorasan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ428798.1	
+SK-1_slovakia_2008	CABYV	2008-XX-XX	FJ428797.1	cucumber	Slovakia	Slovakia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ428797.1	
+CABYV-JX_china_2008	CABYV	2008-XX-XX	FJ460216.1	Cucurbit	China	Jiangxi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ460216.1	
+CABYV-AH_china_2008	CABYV	2008-XX-XX	FJ460214.1	Cucumber	China	Anhui	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ460214.1	
+CABYV-FJ_china_2008	CABYV	2008-XX-XX	FJ425880.1	Zucchini	China	Fujian	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ425880.1	
+CABYV-BJ_china_2008	CABYV	2008-XX-XX	FJ425879.1	Cucumber	Japan	Japan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FJ425879.1	
+145-08_serbia_2008	CABYV	2008-XX-XX	HQ202745.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ202745.1	
+CABYV-USA_usa_2008	CABYV	2008-XX-XX	GU002335.1		USA	USA	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU002335.1	
+CABYV-CHINA_china_2008	CABYV	2008-XX-XX	EU636992.1	Melon	China	Xinjiang	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/EU636992.1	
+CABYV-C-TW20_Taiwan_2008	CABYV	2008-XX-XX	JQ700305.1		Taiwan	Kaohsiung County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JQ700305.1	
+CABYV-R-TW82_taiwan_2009	CABYV	2009-XX-XX	GU324102.1	Luffa aegyptiaca	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324102.1	
+CABYV-C-TW58_taiwan_2009	CABYV	2009-XX-XX	GU324100.1	Momordica charantia	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324100.1	
+CABYV-R-TW36_taiwan_2009	CABYV	2009-XX-XX	GU324099.1	Zucchini	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GU324099.1	
+249-09_serbia_2009	CABYV	2009-XX-XX	JX262081.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262081.1	
+241-09_serbia_2009	CABYV	2009-XX-XX	JX262080.1	Pumpkin	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262080.1	
+162-09_serbia_2009	CABYV	2009-XX-XX	JX262079.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262079.1	
+246-09_serbia_2009	CABYV	2009-XX-XX	JX262078.1	Pumpkin	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262078.1	
+242-09_serbia_2009	CABYV	2009-XX-XX	JX262077.1	Pumpkin	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262077.1	
+237-09_serbia_2009	CABYV	2009-XX-XX	JX262076.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262076.1	
+194-09_serbia_2009	CABYV	2009-XX-XX	JX262075.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262075.1	
+234-09_serbia_2009	CABYV	2009-XX-XX	JX262074.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262074.1	
+197-09_serbia_2009	CABYV	2009-XX-XX	JX262073.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262073.1	
+165-09_serbia_2009	CABYV	2009-XX-XX	JX262072.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262072.1	
+66-09_serbia_2009	CABYV	2009-XX-XX	JX262071.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262071.1	
+Rak-5_czech_republic_2009	CABYV	2009-XX-XX	HM771273.1	Zucchini	Czech Republic	Czech Republic	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HM771273.1	
+Rak-4_czech_republic_2009	CABYV	2009-XX-XX	HM771272.1	Zucchini	Czech Republic	Czech Republic	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HM771272.1	
+Rak-1_czech_republic_2009	CABYV	2009-XX-XX	HM771271.1	Zucchini	Czech Republic	Czech Republic	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HM771271.1	
+Pr-15_czech_republic_2009	CABYV	2009-XX-XX	HM771270.1	Zucchini	Czech Republic	Czech Republic	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HM771270.1	
+Jos-5_czech_republic_2009	CABYV	2009-XX-XX	HM771269.1	Zucchini	Czech Republic	Czech Republic	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HM771269.1	
+CABYV23-8_syria_2009	CABYV	2009-XX-XX	MK614766.1	Zucchini	Syria	Czech Republic	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK614766.1	
+C-UZ4_Uzebkistan_2009	CABYV	2009-XX-XX	KF427706.1	Melon	Uzbekistan	Tashken	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF427706.1	
+C-UZ2_Uzebkistan_2009	CABYV	2009-XX-XX	KF427705.1	Cucumber	Uzbekistan	Tashken	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF427705.1	
+22pCP_Australia_2009	CABYV	2009-XX-XX	HQ543092.1	Pea	Australia	Australia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ543092.1	
+21pCP_Australia_2009	CABYV	2009-XX-XX	HQ543091.1	Pea	Australia	Australia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ543091.1	
+20pCP_Australia_2009	CABYV	2009-XX-XX	HQ543090.1	Pea	Australia	Australia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ543090.1	
+18pCP_Australia_2009	CABYV	2009-XX-XX	HQ543088.1	Pea	Australia	Australia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ543088.1	
+12pCP_Australia_2009	CABYV	2009-XX-XX	HQ543083.1	Pea	Australia	Australia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ543083.1	
+CABYV-R-TW82_Taiwan_2009	CABYV	2009-XX-XX	JQ700306.1	Luffa	Taiwan	Tainan County	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JQ700306.1 	
+CABYV-JAN_Japan_2009	CABYV	2009-XX-XX	GQ221224.1	Cucumber	Japan	Okayama	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/GQ221224.1	
+378-10_serbia_2010	CABYV	2010-XX-XX	JX262090.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262090.1	
+356-10_serbia_2010	CABYV	2010-XX-XX	JX262089.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262089.1	
+351-10_serbia_2010	CABYV	2010-XX-XX	JX262088.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262088.1	
+350-10_serbia_2010	CABYV	2010-XX-XX	JX262087.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262087.1	
+349-10_serbia_2010	CABYV	2010-XX-XX	JX262086.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262086.1	
+346-10_serbia_2010	CABYV	2010-XX-XX	JX262085.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262085.1	
+343-10_serbia_2010	CABYV	2010-XX-XX	JX262084.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262084.1	
+336-10_serbia_2010	CABYV	2010-XX-XX	JX262083.1	Pumpkin	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262083.1	
+298-10_serbia_2010	CABYV	2010-XX-XX	JX262082.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262082.1	
+CABYV-R-PH11_philippines_2010	CABYV	2010-XX-XX	HQ700824.1	Luffa	Philippines	Pangasinan province	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ700824.1	
+CABYV-C-PH1_philippines_2010	CABYV	2010-XX-XX	HQ700823.1	Cucumber	Philippines	Manila	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/HQ700823.1	
+C-TH25_thailand_2010	CABYV	2010-XX-XX	KF427704.1	Cucumber	Thailand	Nakhon Pathom	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF427704.1	
+R-TH18_thailand_2010	CABYV	2010-XX-XX	KF427707.1	Coccinia grandis	Thailand	Nakhon Pathom	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF427707.1	
+C19_turkey_2011	CABYV	2011-XX-XX	MT219984.1	Zucchini	Turkey	Ankara	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219984.1	
+C16_turkey_2011	CABYV	2011-XX-XX	MT219982.1	Melon	Turkey	Ankara	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219982.1	
+C12_turkey_2011	CABYV	2011-XX-XX	MT219981.1	Zucchini	Turkey	Ankara	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219981.1	
+C11_turkey_2011	CABYV	2011-XX-XX	MT219980.1	Zucchini	Turkey	Ankara	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219980.1	
+C5_turkey_2011	CABYV	2011-XX-XX	MT219979.1	Zucchini	Turkey	Ankara	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219979.1	
+C17_turkey_2011	CABYV	2011-XX-XX	MT219983.1	Melon	Turkey	Ankara	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219983.1	
+694-11_serbia_2011	CABYV	2011-XX-XX	JX262100.1	Pumpkin	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262100.1	
+610-11_serbia_2011	CABYV	2011-XX-XX	JX262099.1	Melon	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262099.1	
+570-11_serbia_2011	CABYV	2011-XX-XX	JX262098.1	Cucumber	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262098.1	
+488-11_serbia_2011	CABYV	2011-XX-XX	JX262097.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262097.1	
+439-11_serbia_2011	CABYV	2011-XX-XX	JX262096.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262096.1	
+441-11_serbia_2011	CABYV	2011-XX-XX	JX262095.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262095.1	
+433-11_serbia_2011	CABYV	2011-XX-XX	JX262094.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262094.1	
+432-11_serbia_2011	CABYV	2011-XX-XX	JX262093.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262093.1	
+422-11_serbia_2011	CABYV	2011-XX-XX	JX262092.1	Zucchini	Serbia	Serbia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/JX262092.1	
+168-11_serbia_2011	CABYV	2011-XX-XX	JX262091.1	Zucchini	Serbia	Serbia	genbank	cp		
+Elkoreen-4_egypt_2011	CABYV	2011-XX-XX	FR822387.1	Pumpkin	Egypt	El-sharkia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR822387.1	
+Elkoreen-3_egypt_2011	CABYV	2011-XX-XX	FR822386.1	Cucurbita sp.	Egypt	El-sharkia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR822386.1	
+Elkoreen-2_egypt_2011	CABYV	2011-XX-XX	FR822385.1	Cucurbita sp.	Egypt	El-sharkia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR822385.1	
+Elkoreen-1_egypt_2011	CABYV	2011-XX-XX	FR822384.1	Cucurbita sp.	Egypt	El-sharkia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR822384.1	
+Elsalheia_egypt_2011	CABYV	2011-XX-XX	FR822383.1	Cucurbita sp.	Egypt	Ismaellia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/FR822383.1	
+2.1Me_M_Mos_2011	CABYV	2011-XX-XX	OM948842	Melon	Spain	Murcia	genbank	cp		
+Y22__turkey_2012	CABYV	2012-XX-XX	MT219986.1	Zucchini	Turkey	Antalya	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219986.1	
+E7_turkey_2012	CABYV	2012-XX-XX	MT219985.1	Melon	Turkey	Antalya	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219985.1	
+CABYV-C-TH53_thailand_2012	CABYV	2012-XX-XX	KF815688.1	Momordica charantia	Thailand	Suphan Buri	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815688.1	
+CABYV-C-TH2_thailand_2012	CABYV	2012-XX-XX	KF791039.1	Momordica charantia	Thailand	Suphan Buri	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF791039.1	
+CABYV-R-TH37_thailand_2012	CABYV	2012-XX-XX	KF815679.1	Momordica charantia	Thailand	Suphan Buri	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815679.1	
+CABYV-C-TH37_thailand_2012	CABYV	2012-XX-XX	KF815678.1	Momordica charantia	Thailand	Suphan Buri	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815678.1	
+CABYV-C-TH22_thailand_2012	CABYV	2012-XX-XX	KF791040.1	Cucumber	Thailand	Suphan Buri	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF791040.1	
+CABYV-R-TH1_thailand_2012	CABYV	2012-XX-XX	KF791037.1	Momordica charantia	Thailand	Chiang Mai	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF791037.1	
+11.1Zu_M_Mos_2012	CABYV	2012-XX-XX	OM948836	Zucchini	Spain	Murcia	genbank	cp		
+7.1Me_M_Mos_2012	CABYV	2012-XX-XX	OM948851	Melon 	Spain	Murcia	genbank	cp		
+AT1_turkey_2013	CABYV	2013-XX-XX	MT219978.1	Zucchini	Turkey	Ankara	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219978.1	
+SuCp122-13_sudan_2013	CABYV	2013-XX-XX	MG933686.1	Cicer arietinum	Sudan	Sudan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG933686.1	
+SuCp106-13_sudan_2013	CABYV	2013-XX-XX	MG933685.1	Cicer arietinum	Sudan	Sudan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG933685.1	
+UzCp196-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929495.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929495.1	
+UzCp193-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929494.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929494.1	
+UzCp191-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929493.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929493.1	
+UzCp146-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929492.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929492.1	
+UzCp69-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929491.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929491.1	
+UzCp66-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929490.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929490.1	
+UzCp47-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929489.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929489.1	
+UzCp44-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929488.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929488.1	
+UzCp34-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929487.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929487.1	
+UzCp29-13_uzbekistan_2013	CABYV	2013-XX-XX	MW929486.1	Chickpea	Uzbekistan	Uzbekistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW929486.1	
+CABYV-R-TH145_thailand_2013	CABYV	2013-XX-XX	KF827828.1	Zucchini	Thailand	Chiang Mai	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF827828.1	
+CABYV-R-TH131_thailand_2013	CABYV	2013-XX-XX	KF827827.1	Momordica charantia	Thailand	Chiang Mai	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF827827.1	
+CABYV-C-TH263_thailand_2013	CABYV	2013-XX-XX	KF815687.1	Amaranthus spinosus	Thailand	Khon Kaen	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815687.1	
+CABYV-C-TH228_thailand_2013	CABYV	2013-XX-XX	KF815686.1	Benincasa hispida	Thailand	Khon Kaen	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815686.1	
+CABYV-C-TH81_thailand_2013	CABYV	2013-XX-XX	KF815685.1	Melon	Thailand	Chiang Rai	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815685.1	
+CABYV-C-TH77_thailand_2013	CABYV	2013-XX-XX	KF815684.1	Melon	Thailand	Chiang Rai	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815684.1	
+CABYV-C-TH235_thailand_2013	CABYV	2013-XX-XX	KF815683.1	Cucumber	Thailand	Udon Thani	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815683.1	
+CABYV-C-TH207_thailand_2013	CABYV	2013-XX-XX	KF815682.1	Cucumber	Thailand	Chiang Rai	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815682.1	
+CABYV-C-TH99_thailand_2013	CABYV	2013-XX-XX	KF815681.1	Cucumber	Thailand	Chiang Rai	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KF815681.1	
+SuCp117-13_sudan_2013	CABYV	2013-XX-XX	MK461118.1	Chickpea	Sudan	Sudan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK461118.1	
+SuCp110-13_sudan_2013	CABYV	2013-XX-XX	MK461117.1	Chickpea	Sudan	Sudan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK461117.1	
+NW5_South_Korea_2013	CABYV	2013-XX-XX	KR231957.1	Melon	South Korea	Namwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231957.1 	
+NW2_South_Korea_2013	CABYV	2013-XX-XX	KR231955.1	Melon	South Korea	Namwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231955.1 	
+SW2_South_Korea_2013	CABYV	2013-XX-XX	KR231961.1	Melon	South Korea	Suwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231961.1 	
+GM16_South_Korea_2013	CABYV	2013-XX-XX	KR231946.1	Melon	South Korea	Gumi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231946.1 	
+GM7_South_Korea_2013	CABYV	2013-XX-XX	KR231945.1	Melon	South Korea	Gumi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231945.1 	
+CY6_South_Korea_2013	CABYV	2013-XX-XX	KR231944.1	Melon	South Korea	Cheongyang	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231944.1 	
+CY3_South_Korea_2013	CABYV	2013-XX-XX	KR231942.1	Melon	South Korea	Cheongyang	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231942.1 	
+9.2Zu_A_Mos_2013	CABYV	2013-XX-XX	OM948856	Zucchini	Spain	Alicante	genbank	cp		
+2.1Me_M_Mos_2013	CABYV	2013-XX-XX	OM948843	Melon 	Spain	Murcia	genbank	cp		
+K1_south_korea_2014	CABYV	2014-XX-XX	LC060147.1	Melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC060147.1	
+SW64_South_Korea_2014	CABYV	2014-XX-XX	KR231963.1	Melon	South Korea	Suwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231963.1 	
+SW25_South_Korea_2014	CABYV	2014-XX-XX	KR231962.1	Melon	South Korea	Suwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231962.1 	
+SW1(14)_South_Korea_2014	CABYV	2014-XX-XX	KR231960.1	Melon	South Korea	Suwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231960.1	
+NW18_South_Korea_2014	CABYV	2014-XX-XX	KR231958.1	Melon	South Korea	Namwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231958.1 	
+SW1_South_Korea_2014	CABYV	2014-XX-XX	KR231959.1	Melon	South Korea	Suwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231959.1 	
+NW2(14)_South_Korea_2014	CABYV	2014-XX-XX	KR231956.1	Melon	South Korea	Namwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231956.1 	
+NW1_South_Korea_2014	CABYV	2014-XX-XX	KR231954.1	Melon	South Korea	Namwon	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231954.1 	
+HS2_South_Korea_2014	CABYV	2014-XX-XX	KR231953.1	Melon	South Korea	Hoengseong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231953.1 	
+HS1_South_Korea_2014	CABYV	2014-XX-XX	KR231952.1	Melon	South Korea	Hoengseong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231952.1 	
+HD118_South_Korea_2014	CABYV	2014-XX-XX	KR231951.1	Melon	South Korea	Hadong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231951.1  	
+HD1_South_Korea_2014	CABYV	2014-XX-XX	KR231950.1	Melon	South Korea	Hadong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231950.1  	
+GS6_South_Korea_2014	CABYV	2014-XX-XX	KR231949.1	Melon	South Korea	Gokseong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231949.1 	
+GS2_South_Korea_2014	CABYV	2014-XX-XX	KR231948.1	Melon	South Korea	Gokseong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231948.1 	
+GS1_South_Korea_2014	CABYV	2014-XX-XX	KR231947.1	Melon	South Korea	Gokseong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231947.1 	
+CY4_South_Korea_2014	CABYV	2014-XX-XX	KR231943.1	Melon	South Korea	Cheongyang	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KR231943.1	
+MEC-12_Spain_2014	CABYV	2014-XX-XX	MW051362.1	Melon 	Spain	Murcia  	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW051362.1	
+8.1Me_A_Mos_2014	CABYV	2014-XX-XX	OM948852.1	Melon 	Spain	Alicante	genbank	cp		
+1.1Me_M_Yel_2014	CABYV	2014-XX-XX	OM948834.1	Melon 	Spain	Murcia	genbank	cp		
+9.1Me_M_Mos_2014	CABYV	2014-XX-XX	OM948854.1	Melon 	Spain	Murcia	genbank	cp		
+LCSX147_china_2015	CABYV	2015-XX-XX	KU578122.1	Capsicum annuum	China	Shandong	genbank	cp		
+LCEZ167_china_2015	CABYV	2015-XX-XX	KU578121.1	Capsicum annuum	China	Shandong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KU578121.1	
+SuCp23-15_sudan_2015	CABYV	2015-XX-XX	MK461119.1	Chickpea	Sudan	Sudan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK461119.1	
+TOKAT-CABYV_turkey_2015	CABYV	2015-XX-XX	MT219987.1	Melon	Turkey	Tokat	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT219987.1	
+211/15_montenegro_2015	CABYV	2015-XX-XX	KX398665.1	Zucchini	Montenegro	Montenegro	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KX398665.1	
+200/15_montenegro_2015	CABYV	2015-XX-XX	KX398664.1	Zucchini	Montenegro	Montenegro	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KX398664.1	
+179/15_montenegro_2015	CABYV	2015-XX-XX	KX398663.1	Zucchini	Montenegro	Montenegro	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KX398663.1	
+153/15_montenegro_2015	CABYV	2015-XX-XX	KX398662.1	Zucchini	Montenegro	Montenegro	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KX398662.1	
+CASD1_china_2015	CABYV	2015-XX-XX	KY196410.1	Pumpkin	China	Shandong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY196410.1	
+CALY_china_2015	CABYV	2015-XX-XX	KY196409.1	Zucchini	China	Shandong	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY196409.1	
+18.1Zu_A_Mos_2015	CABYV	2015-XX-XX	OM948838	Zucchini	Spain	Alicante	genbank	cp		
+2.1Zu_M_Mos_2015	CABYV	2015-XX-XX	OM948844	Zucchini	Spain	Murcia	genbank	cp		
+23.1Me_M_Yel_2015	CABYV	2015-XX-XX	OM948846	Melon 	Spain	Murcia	genbank	cp		
+19.1Me_M_Mos_2015	CABYV	2015-XX-XX	OM948839	Melon 	Spain	Murcia	genbank	cp		
+AAHAM-CABY_pakistan_2016	CABYV	2016-XX-XX	MH141556.1	Melon	Pakistan	Pakistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH141556.1	
+KC1_sauth_korea_2016	CABYV	2016-XX-XX	LC413785.1	Melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC413785.1	
+CABYV-Nganjuk_indonesia_2016	CABYV	2016-XX-XX	LC384060.1	Melon	Indonesia	Nganjuk	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC384060.1	
+BG1_india_2016	CABYV	2016-XX-XX	MF281974.1	Momordica charantia	India	Bengaluru	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MF281974.1	
+teasel-gourd_india_2016	CABYV	2016-XX-XX	KY711340.1	Momordica subangulata	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY711340.1	
+EM160394_france_2016	CABYV	2016-XX-XX	MN990943.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990943.1	
+EM160730_france_2016	CABYV	2016-XX-XX	MN990942.1	Zucchini	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990942.1	
+EM160202_france_2016	CABYV	2016-XX-XX	MN990938.1	Zucchini	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990938.1	
+EM160201_france_2016	CABYV	2016-XX-XX	MN990937.1	Zucchini	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990937.1	
+EM160196_france_2016	CABYV	2016-XX-XX	MN990936.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990936.1	
+CABYV_10_turkey_2016	CABYV	2016-XX-XX	MK129536.1	Zucchini	Turkey	Turkey	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK129536.1	
+CABYV-SK3_south_korea_2016	CABYV	2016-XX-XX	KY305638.1	Oriental melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY305638.1	
+CABYV-SK2_south_korea_2016	CABYV	2016-XX-XX	KY305637.1	Melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY305637.1	
+CABYV-SK1_south_korea_2016	CABYV	2016-XX-XX	KY305636.1	Melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY305636.1	
+CR01_india_2016	CABYV	2016-XX-XX	MN275831.1	Cucumber	India		genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275831.1	
+WM-YS10_South_Korea_2016 	CABYV	2016-XX-XX	MG257903.1	Watermelon 	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG257903.1	
+M-CY31_South_Korea_2016	CABYV	2016-XX-XX	MG257902.1	Melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG257902.1	
+M-BY1_South_Korea_2016	CABYV	2016-XX-XX	MG257901.1	Melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG257901.1	
+C-HS1_South_Korea_2016	CABYV	2016-XX-XX	MG257900.1	Cucumber	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG257900.1	
+C-AS1_South_Korea_2016	CABYV	2016-XX-XX	MG257899.1	Cucumber	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG257899.1	
+10PN_Papua_NGuinea_2016	CABYV	2016-XX-XX	MG780352.1	Cucumber	Papaua New Guinea	Papaua New Guinea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG780352.1 	
+EM160093_France_2016	CABYV	2016-XX-XX	MT027103.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT027103.1	
+SGR01_india_2016	CABYV	2016-XX-XX	MN275836.1	Luffa 	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275836.1	
+8.1Me_M_Mos_2016	CABYV	2016-XX-XX	OM948853.1	Melon 	Spain	Murcia	genbank	cp		
+18.1Me_A_Yel_2016	CABYV	2016-XX-XX	OM948837.1	Melon 	Spain	Alicante	genbank	cp		
+D350/17_slovenia_2017	CABYV	2017-XX-XX	MN145457.1	Pumpkin	Slovenia	Slovenia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN145457.1	
+D332/17_slovenia_2017	CABYV	2017-XX-XX	MN145451.1	Zucchini	Slovenia	Slovenia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN145451.1	
+PY-46_usa_2017	CABYV	2017-XX-XX	MG590261.1	Pumpkin	USA	Oklahoma	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG590261.1	
+BL-45_usa_2017	CABYV	2017-XX-XX	MG590260.1	Pumpkin	USA	Oklahoma	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG590260.1	
+BL-4_usa_2017	CABYV	2017-XX-XX	MG590259.1	Pumpkin	USA	Oklahoma	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG590259.1	
+BL-8_usa_2017	CABYV	2017-XX-XX	MG590258.1	Pumpkin	USA	Oklahoma	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MG590258.1	
+KC2_sauth_korea_2017	CABYV	2017-XX-XX	LC413786.1	Melon	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC413786.1	
+AARCu-CABY_pakistan_2017	CABYV	2017-XX-XX	MH141557.1	Cucumber	Pakistan	Pakistan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH141557.1	
+GRB-Bjt4_morocco_2017	CABYV	2017-XX-XX	MH414924.1	Zucchini	Morocco	Morocco	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH414924.1	
+GRB-Bjt3_morocco_2017	CABYV	2017-XX-XX	MH414923.1	Zucchini	Morocco	Morocco	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH414923.1	
+GRB-Bjt2_morocco_2017	CABYV	2017-XX-XX	MH414922.1	Zucchini	Morocco	Morocco	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH414922.1	
+IDN-Tlg_indonesia_2017	CABYV	2017-XX-XX	LC467387.1	Cucumber	Indonesia	Nganjuk	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC467387.1	
+IDN-KP_indonesia_2017	CABYV	2017-XX-XX	LC467386.1	Cucumber	Indonesia	Kulon Progo	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC467386.1	
+IDN-Brs_indonesia_2017	CABYV	2017-XX-XX	LC467385.1	Cucumber	Indonesia	Brebes	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC467385.1	
+IDN-Ngj_indonesia_2017	CABYV	2017-XX-XX	LC467384.1	Cucumber	Indonesia	Nganjuk	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC467384.1	
+EM170195_france_2017	CABYV	2017-XX-XX	MN990941.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990941.1	
+EM170257_france_2017	CABYV	2017-XX-XX	MN990940.1	Zucchini	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990940.1	
+EM170427_france_2017	CABYV	2017-XX-XX	MN990939.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN990939.1	
+V11-025_france_2017	CABYV	2017-XX-XX	KY586131.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586131.1	
+V11-027_france_2017	CABYV	2017-XX-XX	KY586130.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586130.1	
+V11-032_france_2017	CABYV	2017-XX-XX	KY586129.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586129.1	
+P15-140_france_2017	CABYV	2017-XX-XX	KY586128.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586128.1	
+V12-031_france_2017	CABYV	2017-XX-XX	KY586127.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586127.1	
+V11-075_france_2017	CABYV	2017-XX-XX	KY586126.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586126.1	
+V13-042_france_2017	CABYV	2017-XX-XX	KY586125.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586125.1	
+V13-044_france_2017	CABYV	2017-XX-XX	KY586124.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586124.1	
+V11-038_france_2017	CABYV	2017-XX-XX	KY586123.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586123.1	
+V11-089_france_2017	CABYV	2017-XX-XX	KY586122.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586122.1	
+V11-079_france_2017	CABYV	2017-XX-XX	KY586121.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586121.1	
+V11-048_france_2017	CABYV	2017-XX-XX	KY586120.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586120.1	
+V11-044_france_2017	CABYV	2017-XX-XX	KY586119.1	Melon	France	France	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/KY586119.1	
+B1_sri_lanka_2017	CABYV	2017-XX-XX	MH802612.1	Spiny gourd	Sri Lanka	Sri Lanka	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH802612.1	
+PI01_india_2017	CABYV	2017-XX-XX	MN275834.1	Zucchini	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275834.1	
+MI01_india_2017	CABYV	2017-XX-XX	MN275833.1	Melon	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275833.1	
+CABYV_IDN_KulonProgo_indonesia_2017	CABYV	2017-XX-XX	LC311780.1	Cucumber	Indonesia	Kulon Progo	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC311780.1	
+CABYV_IDN_Brebes_indonesia_2017	CABYV	2017-XX-XX	LC311779.1	Cucumber	Indonesia	Brebes	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC311779.1	
+CABYV_IDN_Tulungagung_indonesia_2017	CABYV	2017-XX-XX	LC311778.1	Cucumber	Indonesia 	Tulungagung	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC311778.1	
+CABYV_IDN_Nganjuk_indonesia_2017	CABYV	2017-XX-XX	LC311777.1	Cucumber	Indonesia 	Nganjuk	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC311777.1	
+CABYV_Indonesia_2017	CABYV	2017-XX-XX	LC472499.1	Cucumber	Indonesia	East Java	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC472499.1	
+BL-4_USA_2017	CABYV	2017-XX-XX	MK055337.1	Pumpkin	USA	Oklahoma	genbank	cp	https://pubmed.ncbi.nlm.nih.gov/30746518/	
+3.2Me_M_Yel_2017	CABYV	2017-XX-XX	OM948847.1	Melon 	Spain	Murcia	genbank	cp		
+CABYV-QY_China_2017	CABYV	2017-XX-XX	MT943520.1	Cucumber	China	Henan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT943520.1	
+20180707-6-3_china_2018	CABYV	2018-XX-XX	MN654407.1	Chieh-qua	China	China	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN654407.1	
+20180707-4-12_china_2018	CABYV	2018-XX-XX	MN654406.1	Chieh-qua	China	China	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN654406.1	
+20180623-6-5_china_2018	CABYV	2018-XX-XX	MN654405.1	Pumpkin	China	China	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN654405.1	
+20180623-5-3_china_2018	CABYV	2018-XX-XX	MN654404.1	Chieh-qua	China	China	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN654404.1	
+D727/18_slovenia_2018	CABYV	2018-XX-XX	MN145456.1	Zucchini	Slovenia	Slovenia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN145456.1	
+D712/18_slovenia_2018	CABYV	2018-XX-XX	MN145455.1	Zucchini	Slovenia	Slovenia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN145455.1	
+D682/18_slovenia_2018	CABYV	2018-XX-XX	MN145454.1	Zucchini	Slovenia	Slovenia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN145454.1	
+D583/18_slovenia_2018	CABYV	2018-XX-XX	MN145453.1	Zucchini	Slovenia	Slovenia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN145453.1	
+B1_poland_2018	CABYV	2018-XX-XX	MK059479.1	Zucchini	Poland	Poland	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK059479.1	
+LC433845_indonesia_2018	CABYV	2018-XX-XX	LC433845.1	Momordica charantia	Indonesia	Indonesia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC433845.1	
+CaBYV-SA-Malvaparviflora_saudiariabia_2018	CABYV	2018-XX-XX	MH192391.1	Malva parviflora	Saudi Arabia	Saudi Arabia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH192391.1	
+CaBYV-SA-Sonchusoleraceu_saudiariabia_2018	CABYV	2018-XX-XX	MH192390.1	Sonchus oleraceus	Saudi Arabia	Saudi Arabia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH192390.1	
+CaBYV-SA-Solanumnigrum_saudiariabia_2018	CABYV	2018-XX-XX	MH192389.1	Solanum nigrum	Saudi Arabia	Saudi Arabia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH192389.1	
+CaBYV-SA-Chenopodiummurale_saudiariabia_2018	CABYV	2018-XX-XX	MH192388.1	Chenopodiastrum murale	Saudi Arabia	Saudi Arabia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH192388.1	
+CaBYV-SA-Squash-2_saudiarabia_2018	CABYV	2018-XX-XX	MH192387.1	Zucchini	Saudi Arabia	Saudi Arabia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH192387.1	
+CaBYV-SA-Squash-1_saudiarabia_2018	CABYV	2018-XX-XX	MH192386.1	Zucchini	Saudi Arabia	Saudi Arabia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH192386.1	
+CaBYV-SA-Cucumber_saudiarabia_2018	CABYV	2018-XX-XX	MH192385.1	Cucumber	Saudi Arabia	Saudi Arabia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH192385.1	
+ESS-ESK5/4_turkey_2018	CABYV	2018-XX-XX	MW367895.1	Zucchini	Turkey	Turkey	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW367895.1	
+CABYV-2018/2_poland_2018	CABYV	2018-XX-XX	MT384366.1	Zucchini	Poland	Poland	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT384366.1	
+CABYV-2018/1_poland_2018	CABYV	2018-XX-XX	MT384365.1	Zucchini	Poland	Poland	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT384365.1	
+VP2_india_2018	CABYV	2018-XX-XX	MK182531.1	Momordica charantia	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK182531.1	
+VP1_india_2018	CABYV	2018-XX-XX	MK182530.1	Momordica charantia	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK182530.1	
+PP2_india_2018	CABYV	2018-XX-XX	MK182529.1	Momordica charantia	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK182529.1	
+PP1_india_2018	CABYV	2018-XX-XX	MK182528.1	Momordica charantia	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MK182528.1	
+Sam-2_iran_0218	CABYV	2018-XX-XX	MH660531.1	Melon	Iran	Sistan and Baluchestan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH660531.1	
+Sam-4_iran_2018	CABYV	2018-XX-XX	MH660530.1	Melon	Iran	Sistan and Baluchestan	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MH660530.1	
+SI01_india_2018	CABYV	2018-XX-XX	MN275839.1	Zucchini	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275839.1	
+WGI01_india_2018	CABYV	2018-XX-XX	MN275838.1	Benincasa hispida	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275838.1	
+WMD01_india_2018	CABYV	2018-XX-XX	MN275837.1	Watermelon 	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275837.1	
+RGI01_india_2018	CABYV	2018-XX-XX	MN275835.1	Luffa 	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275835.1	
+CI01_india_2018	CABYV	2018-XX-XX	MN275832.1	Coccinia grandis	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN275832.1	
+POL-SQ_India_2018	CABYV	2018-XX-XX	MN688219.1	Zucchini	India	Varanasi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN688219.1	
+67.1Zu_M_Mos_2018	CABYV	2018-XX-XX	OM948850	Zucchini	Spain	Murcia	genbank	cp		
+64.2Me_CLM_Mos_2018	CABYV	2018-XX-XX	OM948857	Melon 	Spain	C. La Mancha	genbank	cp		
+RKJ-26_india_2019	CABYV	2019-XX-XX	MT018564.1	Momordica charantia	India	Tamil Nadu	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT018564.1	
+RKJ-25_india_2019	CABYV	2019-XX-XX	MN862007.1	Momordica charantia	India	New Delhi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN862007.1	
+RKJ-23_india_2019	CABYV	2019-XX-XX	MN843967.1	Cucumber	India	New Delhi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN843967.1	
+RKJ-21_india_2019	CABYV	2019-XX-XX	MN843966.1	Momordica charantia	India	Coimbatore	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN843966.1	
+CABYV-2019/1_poland_2019	CABYV	2019-XX-XX	MT384364.1	Cucumis sativus	Poland	Poland	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MT384364.1	
+44-7/10/19_germany_2019	CABYV	2019-XX-XX	MN746322.1	Cucumber	Germany	Germany	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN746322.1	
+ESS-YZG3/2_turkey_2019	CABYV	2019-XX-XX	MW367896.1	Zucchini	Turkey	Turkey	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW367896.1	
+ESS-NGD6/1_turkey_2019	CABYV	2019-XX-XX	MW367894.1	Zucchini	Turkey	Turkey	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW367894.1	
+ESS-NVS13/1_turkey_2019	CABYV	2019-XX-XX	MW367893.1	Zucchini	Turkey	Turkey	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW367893.1	
+POL-WM_India_2019	CABYV	2019-XX-XX	MN688220.1	Watermelon 	India	Varanasi	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MN688220.1	
+19.1Zu_A_Yel_2019	CABYV	2019-XX-XX	OM948841.1	Zucchini	Spain	Alicante	genbank	cp		
+22.1Zu_M_Yel_2019	CABYV	2019-XX-XX	OM948845.1	Zucchini	Spain	Murcia	genbank	cp		
+19.1Me_M_Mos_2019	CABYV	2019-XX-XX	OM948840.1	Melon 	Spain	Murcia	genbank	cp		
+9.1Me_M_Mos_2019	CABYV	2019-XX-XX	OM948855.1	Melon 	Spain	Murcia	genbank	cp		
+LP63_spain_2019	CABYV	2019-XX-XX	MW051363.1	Watermelon 	Spain	Murcia	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW051363.1 	
+BGK_south_korea_2020	CABYV	2020-XX-XX	LC704882.1	Momordica charantia	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/LC704882.1	
+GJ_South_Korea_2020	CABYV	2020-XX-XX	MW509732.1	Melon 	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MW509732.1	
+59.1Me_A_Yel_2020	CABYV	2020-XX-XX	OM948849.1	Melon 	Spain	Alicante	genbank	cp		
+10.1Zu_M_Yel_2020	CABYV	2020-XX-XX	OM948835.1	Zucchini	Spain	Murcia	genbank	cp		
+53.1Me_M_Yel_2020	CABYV	2020-XX-XX	OM948848.1	Melon 	Spain	Murcia	genbank	cp		
+MMD_india_2021	CABYV	2021-XX-XX	OM517172.1	Melon	India	India	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/OM517172.1	
+AS-cucumber_south_korea_2021	CABYV	2021-XX-XX	MZ366313.1	Cucumber	South Korea	South Korea	genbank	cp	https://www.ncbi.nlm.nih.gov/nuccore/MZ366313.1	
