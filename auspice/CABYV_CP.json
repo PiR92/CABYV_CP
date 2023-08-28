@@ -1,7 +1,7 @@
 {
   "version": "v2",
   "meta": {
-    "title": "Nextstrain for Cucurbit aphid-borne yellows virus Coat Portein",
+    "title": "Nextstrain for Cucurbit aphid-borne yellows virus Coat Protein",
     "updated": "2022-12-16",
     "build_url": "https://nextstrain.org/community/PiR92/CABYV_CP@main",
     "maintainers": [
@@ -91,7 +91,7 @@
             "#E84583"
           ],
           [
-            "Taiwan",
+            "Taiwan Region",
             "#AD33B9"
           ],
           [
@@ -406,7 +406,7 @@
             "#E84583"
           ],
           [
-            "Taiwan",
+            "Taiwan Region",
             "#AD33B9"
           ],
           [
@@ -632,7 +632,7 @@
             "latitude": 36.81897,
             "longitude": 10.16579
           },
-          "Taiwan": {
+          "Taiwan Region": {
             "latitude": 23.6978,
             "longitude": 120.9605
           },
@@ -1005,7 +1005,7 @@
             "latitude": 4.60327,
             "longitude": 127.45638
           },
-          "Taiwan": {
+          "Taiwan Region": {
             "latitude": 2.36978,
             "longitude": 120.96052
           },
@@ -1686,7 +1686,7 @@
                   "China": 0.04264792538399077,
                   "India": 0.030904295741851696,
                   "South Korea": 0.03202585275168936,
-                  "Taiwan": 0.033504984450483326
+                  "Taiwan Region": 0.033504984450483326
                 },
                 "entropy": 3.5504463385858185
               },
@@ -1975,7 +1975,7 @@
                       "China": 0.6214924992519226,
                       "India": 0.002116015129228789,
                       "South Korea": 0.002846027414355785,
-                      "Taiwan": 0.34300718727029145
+                      "Taiwan Region": 0.34300718727029145
                     },
                     "entropy": 0.9022945100335458
                   },
@@ -1995,7 +1995,7 @@
                       "Beijing": 0.6065427989591028,
                       "Liaoning": 0.0012679763861620462,
                       "South Korea": 0.0012510227955873877,
-                      "Taiwan": 0.32687161676706344
+                      "Taiwan Region": 0.32687161676706344
                     },
                     "entropy": 1.152413367987739
                   }
@@ -2069,9 +2069,9 @@
                       },
                       "url": "https://www.ncbi.nlm.nih.gov/nuccore/EU030629.1",
                       "country": {
-                        "value": "Taiwan",
+                        "value": "Taiwan Region",
                         "confidence": {
-                          "Taiwan": 0.9999999999999999
+                          "Taiwan Region": 0.9999999999999999
                         },
                         "entropy": -9.99866855976916e-13
                       },
@@ -2086,9 +2086,9 @@
                         "entropy": -1.000088900581841e-12
                       },
                       "region": {
-                        "value": "Taiwan",
+                        "value": "Taiwan Region",
                         "confidence": {
-                          "Taiwan": 1.0
+                          "Taiwan Region": 1.0
                         },
                         "entropy": -1.000088900581841e-12
                       }
@@ -2600,7 +2600,7 @@
             "confidence": {
               "India": 0.5928913843970579,
               "Indonesia": 0.04566314664526503,
-              "Taiwan": 0.017868868165731487,
+              "Taiwan Region": 0.017868868165731487,
               "Thailand": 0.017246126888604423
             },
             "entropy": 2.077078735837196
@@ -2767,7 +2767,7 @@
                 "confidence": {
                   "India": 0.9695095493287238,
                   "Indonesia": 0.0022570845428305482,
-                  "Taiwan": 0.007157549917594044,
+                  "Taiwan Region": 0.007157549917594044,
                   "Thailand": 0.0036716893545911686
                 },
                 "entropy": 0.22920182780722154
@@ -3204,7 +3204,7 @@
                     "value": "India",
                     "confidence": {
                       "India": 0.9828313474810708,
-                      "Taiwan": 0.009573536081948863,
+                      "Taiwan Region": 0.009573536081948863,
                       "Thailand": 0.003793220857004532
                     },
                     "entropy": 0.11519141650506382
@@ -5299,7 +5299,7 @@
                         "confidence": {
                           "China": 0.002858966152582927,
                           "India": 0.9478622507204458,
-                          "Taiwan": 0.03273881789408738,
+                          "Taiwan Region": 0.03273881789408738,
                           "Thailand": 0.011642143161801323
                         },
                         "entropy": 0.27246280576718657
@@ -5356,7 +5356,7 @@
                             "confidence": {
                               "China": 0.007434855029937841,
                               "India": 0.9453836197712041,
-                              "Taiwan": 0.01836638577513211,
+                              "Taiwan Region": 0.01836638577513211,
                               "Thailand": 0.020300295467841293
                             },
                             "entropy": 0.30889457505190887
@@ -5406,7 +5406,7 @@
                                 "value": "India",
                                 "confidence": {
                                   "India": 0.9926192130891702,
-                                  "Taiwan": 0.0015719731670232467,
+                                  "Taiwan Region": 0.0015719731670232467,
                                   "Thailand": 0.0020719554229066896
                                 },
                                 "entropy": 0.06314244920895949
@@ -15593,11 +15593,11 @@
                             ]
                           },
                           "country": {
-                            "value": "Taiwan",
+                            "value": "Taiwan Region",
                             "confidence": {
                               "India": 0.2108114926280565,
                               "Spain": 0.01832255658847477,
-                              "Taiwan": 0.721496444148507,
+                              "Taiwan Region": 0.721496444148507,
                               "Thailand": 0.017085076923213725
                             },
                             "entropy": 0.9052312281499051
@@ -15651,11 +15651,11 @@
                                 ]
                               },
                               "country": {
-                                "value": "Taiwan",
+                                "value": "Taiwan Region",
                                 "confidence": {
                                   "India": 0.17952563584997297,
                                   "Indonesia": 0.020417920078023198,
-                                  "Taiwan": 0.7274023812214704,
+                                  "Taiwan Region": 0.7274023812214704,
                                   "Thailand": 0.02520528168911493
                                 },
                                 "entropy": 0.9916881428075256
@@ -15702,11 +15702,11 @@
                                     ]
                                   },
                                   "country": {
-                                    "value": "Taiwan",
+                                    "value": "Taiwan Region",
                                     "confidence": {
                                       "India": 0.006777173754318194,
                                       "Philippines": 0.029380435523756455,
-                                      "Taiwan": 0.9490688189726065,
+                                      "Taiwan Region": 0.9490688189726065,
                                       "Thailand": 0.0013596354316161993
                                     },
                                     "entropy": 0.29881094143782916
@@ -15825,10 +15825,10 @@
                                         ]
                                       },
                                       "country": {
-                                        "value": "Taiwan",
+                                        "value": "Taiwan Region",
                                         "confidence": {
                                           "Philippines": 0.003860998182992364,
-                                          "Taiwan": 0.9933147382835565
+                                          "Taiwan Region": 0.9933147382835565
                                         },
                                         "entropy": 0.05281668644641557
                                       },
@@ -15872,9 +15872,9 @@
                                             ]
                                           },
                                           "country": {
-                                            "value": "Taiwan",
+                                            "value": "Taiwan Region",
                                             "confidence": {
-                                              "Taiwan": 0.9999949316816528
+                                              "Taiwan Region": 0.9999949316816528
                                             },
                                             "entropy": 8.187483731878348e-05
                                           },
@@ -15918,9 +15918,9 @@
                                               },
                                               "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324102.1",
                                               "country": {
-                                                "value": "Taiwan",
+                                                "value": "Taiwan Region",
                                                 "confidence": {
-                                                  "Taiwan": 1.0
+                                                  "Taiwan Region": 1.0
                                                 },
                                                 "entropy": -1.000088900581841e-12
                                               },
@@ -15959,9 +15959,9 @@
                                               },
                                               "url": "https://www.ncbi.nlm.nih.gov/nuccore/JQ700306.1 ",
                                               "country": {
-                                                "value": "Taiwan",
+                                                "value": "Taiwan Region",
                                                 "confidence": {
-                                                  "Taiwan": 1.0
+                                                  "Taiwan Region": 1.0
                                                 },
                                                 "entropy": -1.000088900581841e-12
                                               },
@@ -16001,9 +16001,9 @@
                                             ]
                                           },
                                           "country": {
-                                            "value": "Taiwan",
+                                            "value": "Taiwan Region",
                                             "confidence": {
-                                              "Taiwan": 0.9999999885340036
+                                              "Taiwan Region": 0.9999999885340036
                                             },
                                             "entropy": 2.5119113424050563e-07
                                           },
@@ -16062,9 +16062,9 @@
                                               },
                                               "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324097.1",
                                               "country": {
-                                                "value": "Taiwan",
+                                                "value": "Taiwan Region",
                                                 "confidence": {
-                                                  "Taiwan": 1.0
+                                                  "Taiwan Region": 1.0
                                                 },
                                                 "entropy": -1.000088900581841e-12
                                               },
@@ -16107,9 +16107,9 @@
                                               },
                                               "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324099.1",
                                               "country": {
-                                                "value": "Taiwan",
+                                                "value": "Taiwan Region",
                                                 "confidence": {
-                                                  "Taiwan": 1.0
+                                                  "Taiwan Region": 1.0
                                                 },
                                                 "entropy": -1.000088900581841e-12
                                               },
@@ -16157,9 +16157,9 @@
                                                 ]
                                               },
                                               "country": {
-                                                "value": "Taiwan",
+                                                "value": "Taiwan Region",
                                                 "confidence": {
-                                                  "Taiwan": 0.9999997221233118
+                                                  "Taiwan Region": 0.9999997221233118
                                                 },
                                                 "entropy": 5.414547779391893e-06
                                               },
@@ -16196,9 +16196,9 @@
                                                   },
                                                   "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324101.1",
                                                   "country": {
-                                                    "value": "Taiwan",
+                                                    "value": "Taiwan Region",
                                                     "confidence": {
-                                                      "Taiwan": 1.0
+                                                      "Taiwan Region": 1.0
                                                     },
                                                     "entropy": -1.000088900581841e-12
                                                   },
@@ -16236,9 +16236,9 @@
                                                     ]
                                                   },
                                                   "country": {
-                                                    "value": "Taiwan",
+                                                    "value": "Taiwan Region",
                                                     "confidence": {
-                                                      "Taiwan": 0.9999997221513514
+                                                      "Taiwan Region": 0.9999997221513514
                                                     },
                                                     "entropy": 5.414040951356448e-06
                                                   },
@@ -16274,9 +16274,9 @@
                                                       },
                                                       "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324103.1",
                                                       "country": {
-                                                        "value": "Taiwan",
+                                                        "value": "Taiwan Region",
                                                         "confidence": {
-                                                          "Taiwan": 1.0
+                                                          "Taiwan Region": 1.0
                                                         },
                                                         "entropy": -1.000088900581841e-12
                                                       },
@@ -16315,9 +16315,9 @@
                                                       },
                                                       "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324104.1",
                                                       "country": {
-                                                        "value": "Taiwan",
+                                                        "value": "Taiwan Region",
                                                         "confidence": {
-                                                          "Taiwan": 1.0
+                                                          "Taiwan Region": 1.0
                                                         },
                                                         "entropy": -1.000088900581841e-12
                                                       },
@@ -16365,11 +16365,11 @@
                                     ]
                                   },
                                   "country": {
-                                    "value": "Taiwan",
+                                    "value": "Taiwan Region",
                                     "confidence": {
                                       "India": 0.14548075152361833,
                                       "Indonesia": 0.0969572774265557,
-                                      "Taiwan": 0.545308167536102,
+                                      "Taiwan Region": 0.545308167536102,
                                       "Thailand": 0.08163852644211529
                                     },
                                     "entropy": 1.74449899093418
@@ -17316,11 +17316,11 @@
                                 ]
                               },
                               "country": {
-                                "value": "Taiwan",
+                                "value": "Taiwan Region",
                                 "confidence": {
                                   "India": 0.1382179045804022,
                                   "Spain": 0.04310871327731644,
-                                  "Taiwan": 0.7650445506848359,
+                                  "Taiwan Region": 0.7650445506848359,
                                   "Thailand": 0.011693662052164497
                                 },
                                 "entropy": 0.9238666891699332
@@ -17367,11 +17367,11 @@
                                     ]
                                   },
                                   "country": {
-                                    "value": "Taiwan",
+                                    "value": "Taiwan Region",
                                     "confidence": {
                                       "India": 0.029114956882800108,
                                       "Spain": 0.008811929742933806,
-                                      "Taiwan": 0.9366772097018135,
+                                      "Taiwan Region": 0.9366772097018135,
                                       "Thailand": 0.003067954276445933
                                     },
                                     "entropy": 0.3825424878659393
@@ -17422,9 +17422,9 @@
                                       },
                                       "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324100.1",
                                       "country": {
-                                        "value": "Taiwan",
+                                        "value": "Taiwan Region",
                                         "confidence": {
-                                          "Taiwan": 1.0
+                                          "Taiwan Region": 1.0
                                         },
                                         "entropy": -1.000088900581841e-12
                                       },
@@ -17495,9 +17495,9 @@
                                         ]
                                       },
                                       "country": {
-                                        "value": "Taiwan",
+                                        "value": "Taiwan Region",
                                         "confidence": {
-                                          "Taiwan": 0.9999795609069123
+                                          "Taiwan Region": 0.9999795609069123
                                         },
                                         "entropy": 0.00030703626096124
                                       },
@@ -17558,9 +17558,9 @@
                                           },
                                           "url": "https://www.ncbi.nlm.nih.gov/nuccore/GU324095.1",
                                           "country": {
-                                            "value": "Taiwan",
+                                            "value": "Taiwan Region",
                                             "confidence": {
-                                              "Taiwan": 1.0
+                                              "Taiwan Region": 1.0
                                             },
                                             "entropy": -1.000088900581841e-12
                                           },
@@ -17599,9 +17599,9 @@
                                           },
                                           "url": "https://www.ncbi.nlm.nih.gov/nuccore/JQ700305.1",
                                           "country": {
-                                            "value": "Taiwan",
+                                            "value": "Taiwan Region",
                                             "confidence": {
-                                              "Taiwan": 1.0
+                                              "Taiwan Region": 1.0
                                             },
                                             "entropy": -1.000088900581841e-12
                                           },
@@ -17640,12 +17640,12 @@
                                     ]
                                   },
                                   "country": {
-                                    "value": "Taiwan",
+                                    "value": "Taiwan Region",
                                     "confidence": {
                                       "India": 0.06599045352916512,
                                       "Papaua New Guinea": 0.06338997985988923,
                                       "Spain": 0.36973826518226405,
-                                      "Taiwan": 0.37824478333795886
+                                      "Taiwan Region": 0.37824478333795886
                                     },
                                     "entropy": 1.755956110890561
                                   },
@@ -17771,7 +17771,7 @@
                                           "France": 0.0074796802622833815,
                                           "Papaua New Guinea": 0.0014497685277755229,
                                           "Spain": 0.9747847960422091,
-                                          "Taiwan": 0.008390693655464122
+                                          "Taiwan Region": 0.008390693655464122
                                         },
                                         "entropy": 0.17385393848642094
                                       },
